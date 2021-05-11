@@ -1,0 +1,9 @@
+[submodule "laravel-api"]
+	path = laravel-api
+	url = https://github.com/Git-submodules/laravel-api.git
+[submodule "next-spa"]
+	path = next-spa
+	url = https://github.com/Git-submodules/next-spa.git
+[submodule "ionic-mobile"]
+	path = ionic-mobile
+	url = https://github.com/Git-submodules/ionic-mobile.git
